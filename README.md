@@ -9,7 +9,7 @@
 - [In Defense of Hyper Modular JavaScript – freeCodeCamp.org](https://medium.freecodecamp.org/in-defense-of-hyper-modular-javascript-33934c79e113)
 
 【思考】
-- One-line module 好还是不好，https://github.com/sindresorhus/ama/issues/10
+- One-line module 好还是不好，[sindresorhus/ama#10](https://github.com/sindresorhus/ama/issues/10)、[sindresorhus/ama#367](https://github.com/sindresorhus/ama/issues/367)
 - DRY 原则的拿捏程度
 - npm 平台的稳定性
 - npm 包的信息安全警戒，[我是这样黑进你Node.js生产服务器的 - 掘金](https://juejin.im/post/5b8b37c951882542a82ba60c)

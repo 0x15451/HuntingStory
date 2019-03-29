@@ -1,4 +1,6 @@
-# Performance-Art
+# HuntingStory
+
+**记录猎奇故事**
 
 #### 【2016-03-22】因不满版权威胁，npm 包 left-pad 作者公然删库，导致 babel、react 等技术栈权限崩溃
 
